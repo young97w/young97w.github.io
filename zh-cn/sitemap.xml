@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://young97w.github.io/zh-cn/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://young97w.github.io/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://young97w.github.io/"
+                href="https://young97w.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,15 +17,15 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/"
+                href="https://young97w.github.io/"
                 />
   </url><url>
-    <loc>https://young97w.github.io/zh-cn/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://young97w.github.io/categories/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://young97w.github.io/categories/"
+                href="https://young97w.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -35,63 +35,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/categories/"
+                href="https://young97w.github.io/categories/"
                 />
   </url><url>
-    <loc>https://young97w.github.io/zh-cn/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://young97w.github.io/categories/leetcode/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
   </url><url>
-    <loc>https://young97w.github.io/zh-cn/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://young97w.github.io/post/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
+  </url><url>
+    <loc>https://young97w.github.io/tags/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://young97w.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://young97w.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/post/"
-                />
-  </url><url>
-    <loc>https://young97w.github.io/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://young97w.github.io/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/categories/test/"
-                />
-  </url><url>
-    <loc>https://young97w.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://young97w.github.io/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://young97w.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://young97w.github.io/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://young97w.github.io/tags/"
+                href="https://young97w.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,19 +59,27 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/tags/"
+                href="https://young97w.github.io/tags/"
                 />
   </url><url>
-    <loc>https://young97w.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://young97w.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://young97w.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
+    <loc>https://young97w.github.io/p/test/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
+  </url><url>
+    <loc>https://young97w.github.io/tags/%E6%95%B0%E7%BB%84/</loc>
+    <lastmod>2024-10-16T16:21:24+08:00</lastmod>
+  </url><url>
+    <loc>https://young97w.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://young97w.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://young97w.github.io/links/</loc>
+  </url><url>
+    <loc>https://young97w.github.io/search/</loc>
+  </url><url>
+    <loc>https://young97w.github.io/categories/test/</loc>
+  </url><url>
+    <loc>https://young97w.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
